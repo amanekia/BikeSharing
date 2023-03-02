@@ -8,6 +8,9 @@ In this project we were tasked with analyzing the bike-sharing program by citi b
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
 # Results
+
+The link to the Tableau is: https://public.tableau.com/views/ChallengeAssignmentBook2/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link
+
 We used the public data available at the NYC Citi bike website for the month of August, 2019 as it is warmer during that time and can give an accurate represenation of how the bike sharing program is used. 
 
 The first data we pulled out was the following:
